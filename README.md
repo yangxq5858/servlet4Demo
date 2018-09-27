@@ -1,0 +1,3 @@
+# servlet4Demo
+JSR315规范中的ServletContainerInitalizer特性
+可以动态加载启动类（子类）和 添加Servlet和Filter，Listener
